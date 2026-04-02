@@ -27,7 +27,14 @@ I care deeply about **systems that work when things break at 3 AM** — reliabil
 
 ### 📊 My GitHub Stats (as of April 2026)
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthkumar96&show_icons=true&theme=radical&hide_border=true" alt="Revanth's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumar96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar96&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 <!-- Optional: Visitor count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=revanthkumar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 *(Stats update automatically — I'm still early in my journey and grinding daily.)*
