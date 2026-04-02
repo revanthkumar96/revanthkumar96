@@ -27,15 +27,9 @@ I care deeply about **systems that work when things break at 3 AM** — reliabil
 
 ### 📊 My GitHub Stats (as of April 2026)
 
-<div align="center">
-  <img src="https://github.com/revanthkumar96/revanthkumar96/raw/main/github-stats.png" alt="Revanth's GitHub Stats" width="700" />
-</div>
 
-**Highlights:**
-- **165** Total Contributions (Jun 22, 2024 – Present)
-- **22** Current Streak (Mar 12 – Apr 2)
-- **22** Longest Streak
-
+<!-- Optional: Visitor count -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=revanthkumar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 *(Stats update automatically — I'm still early in my journey and grinding daily.)*
 
 ---
