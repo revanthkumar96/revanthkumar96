@@ -25,7 +25,7 @@ I care deeply about **systems that work when things break at 3 AM** — reliabil
 
 ---
 
-### 📊 My GitHub Stats (as of April 2026)
+### 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthkumar96&show_icons=true&theme=radical&hide_border=true" alt="Revanth's GitHub Stats" />
