@@ -1,166 +1,136 @@
-# 👋 Hey, I'm Revanth Kumar
+<div align="center">
+  <h1>Hey, I'm Sudikonda Revanth Kumar 👋</h1>
+  <p><strong>AI Systems Engineer | Building production-grade LLM apps that don't hallucinate in prod</strong></p>
 
-## 🚀 Honest Intro
-
-I’m not the best engineer out there.
-But I’ve already built systems that process **millions of records**, shipped **AI pipelines**, and worked on **real production problems** — not just tutorials.
-
-I care about **building things that actually work in the real world**.
-
----
-
-## 💼 What I Do
-
-* Build **AI systems**, not just models
-* Design **backend architectures that scale**
-* Work on **LLM-powered applications & automation pipelines**
-* Focus on **performance, reliability, and system design**
+  <!-- Tech Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white&style=flat" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white&style=flat" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white" alt="Groq" />
+</div>
 
 ---
 
-## 🧠 Experience
+### 🚀 The Honest Truth
 
-### 🧑‍💻 AI Engineer Intern — *Mindcres Technologies*
+I'm **not** the smartest AI engineer on GitHub.  
+I don't have thousands of stars or viral repos (yet).
 
-**Dec 2025 – Mar 2026**
+**What I do have:**
 
-* Built AI pipelines processing **1.5M+ records**
-* Developed **LLM + Computer Vision systems**
-* Created **document processing & identity verification pipelines**
-* Designed **high-throughput backend APIs**
+- Shipped systems processing **1.5M+ records** in production
+- Built real RAG pipelines, multi-agent systems, and observability tools that solve actual pain
+- Interned at a defense PSU + startup + ongoing freelance
+- Still a B.Tech student (graduating 2027) — hungry and shipping fast
 
----
-
-### 🛰️ AI Engineering Intern — *Bharat Dynamics Limited (BDL)*
-
-**Jun 2025 – Aug 2025**
-
-* Built **semantic search system** for aerospace datasets
-* Designed **data ingestion pipelines**
-* Developed **NLP-based retrieval interfaces**
-* Delivered a **Streamlit-based AI system**
+I focus on **systems that survive 3 AM alerts**, not just pretty demos.
 
 ---
 
-### 🌐 AI Engineer — *Freelance*
+### 📊 GitHub Stats
 
-**Apr 2025 – Present**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthkumar96&show_icons=true&theme=radical&hide_border=true" alt="Revanth's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumar96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-* Built **AI automation systems for real workflows**
-* Designed **retrieval-based pipelines (RAG)**
-* Integrated **enterprise APIs (Microsoft Graph)**
-* Worked on **production-grade AI systems**
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar96&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
----
-
-## 🔥 Projects
-
-### 🛡️ ROUGE — Autonomous AI Pentester
-
-🔗 https://github.com/revanthkumar96/ROUGE
-
-* Multi-agent system for **automated vulnerability discovery**
-* Combines **browser automation + security tooling**
-* Built with **LangGraph + Temporal orchestration**
+<!-- Optional: Visitor count -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=revanthkumar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ---
 
-### 📊 Rouge.ai SDK — AI Observability
+### 💼 What I Actually Build
 
-🔗 https://github.com/revanthkumar96/rouge-ai-sdk
-📦 https://pypi.org/project/rouge-ai/
+- **End-to-end AI systems** (LLM apps + backend + tracing + monitoring)
+- **Reliable RAG & agentic workflows** with evaluation, rollback, and observability
+- **High-throughput backends** (FastAPI + PostgreSQL + caching) that handle real load
+- **Production painkillers** — latency cuts, fault tolerance, structured logging
 
-* Open-source SDK to **trace AI workflows**
-* Tracks prompts, tools, and model behavior
-* Uses **OpenTelemetry for distributed tracing**
-
----
-
-## 🛠️ Tech Stack (Actually Used)
-
-**Languages:**
-Python, JavaScript, TypeScript, SQL
-
-**Backend:**
-FastAPI, REST APIs, System Design, Linux, CLI
-
-**AI/ML:**
-NLP, Deep Learning, Computer Vision, LangChain, LangGraph
-
-**Data:**
-PostgreSQL, MongoDB, ClickHouse, ETL, Apache Spark
-
-**Cloud & Tools:**
-AWS (Bedrock), Git, GitHub
+**Core Stack I Ship With:**
+**Python** • **FastAPI** • **LangGraph** • **PyTorch** • **Hugging Face** • **PostgreSQL / MongoDB / ClickHouse** • **Docker** • **OpenTelemetry** • **Groq / Claude / OpenAI / Bedrock** • **Whisper**
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Featured Projects
 
-* 🥇 Top 10 — Sushacks’25 Hackathon
-* 🥇 Top 10 — GDG GenAI Hackathon
-* 🤝 Contributed to a **Y Combinator-backed startup (HIVE)**
-* 💡 CodeChef Rating: **1480**
+**ROUGE — Automated DevOps Execution System**  
+[![GitHub](https://img.shields.io/badge/GitHub-ROUGE-black?logo=github)](https://github.com/revanthkumar96/ROUGE)  
+10-agent orchestration system with enforced safety, rollback, and full observability. Fixes "AI agents running unsafe commands silently."
 
----
+**Rouge.AI SDK — LLM Observability Platform**  
+[![PyPI](https://img.shields.io/badge/PyPI-rouge--ai-blue)](https://pypi.org/project/rouge-ai/)  
+OpenTelemetry-based drop-in SDK that traces agentic workflows across 10+ LLM providers (prompts, tools, latency, failures).
 
-## 🎯 What I’m Becoming
-
-I’m not trying to be just:
-
-* an ML engineer
-* or a backend dev
-
-I’m building towards becoming someone who can:
-
-* Design **end-to-end intelligent systems**
-* Build **production-ready AI infrastructure**
-* Solve **real-world problems at scale**
+**Other Impact:**
+- RAG semantic search over **50K+** aerospace documents (Bharat Dynamics)
+- Backend services handling **10K+ requests/day** with **30%** latency reduction (Mindcres)
+- Enterprise automation with Microsoft Graph APIs + PowerShell
 
 ---
 
-## ⚡ Strengths
+### 🧠 Experience (Real Numbers)
 
-* I build **real systems, not toy projects**
-* I understand **how things work internally**
-* I can go from **idea → architecture → implementation**
-* I don’t quit when things get complex
+- **Freelance AI Systems Engineer** — Apr 2025 → Present  
+  Full-stack AI apps for summarization, transcription, and RAG workflows.
 
----
+- **AI & Backend Engineer Intern @ Mindcres Technologies** — Dec 2025 – Mar 2026  
+  NLP + Computer Vision pipelines on **1.5M+ records**.
 
-## 🧩 Weaknesses
-
-* Sometimes I **over-engineer early**
-* Can get stuck chasing **perfect design**
+- **AI Engineering Intern @ Bharat Dynamics Limited (Defense)** — Jun 2025 – Aug 2025  
+  Domain-specific knowledge base and semantic search system.
 
 ---
 
-## 🎓 Education
+### ⚡ Strengths & Weaknesses
 
-**B.Tech in Computer Science and Engineering**
-Vignan’s Institute of Information Technology (2023–2027)
+**Strengths:**
+- Idea → architecture → production code (I ship)
+- Obsessed with reliability, tracing, and "will this break under load?"
+- Fast learner who actually reads error logs
 
----
-
-## 📈 Current Status
-
-* Already shipped **real AI systems** ✅
-* Still far from where I want to be ⏳
-
----
-
-## 🧠 Philosophy
-
-> “I don’t just want to use AI.
-> I want to build systems that make AI actually useful.”
+**Weaknesses:**
+- Occasionally over-engineer before validating the simple version
+- Can chase "perfect design" instead of "good enough that works"
 
 ---
 
-## 🤝 Let’s Connect
+### 🏆 Achievements
 
-* GitHub: https://github.com/revanthkumar96
-* LinkedIn: https://linkedin.com/in/revanth-kumar-sudikonda
+- Top 10 — Sushacks’25 Hackathon
+- Top 10 — GDG GenAI Hackathon
+- Open source contributions (browser-use, runtm.ai)
+- Undergraduate Research: Iterative RLHF / RAFT alignment on small models (Qwen2.5, Phi-2, TinyLlama)
 
 ---
 
-⭐ *Still building. Still learning. No shortcuts.*
+### 🎯 What I'm Becoming
+
+Not just another "fine-tuner."  
+I'm building toward **end-to-end intelligent production systems** — reliable, observable, scalable, and actually useful.
+
+Still far from my goal. Still grinding every day.
+
+---
+
+### 🤝 Let's Connect
+
+- **GitHub:** [@revanthkumar96](https://github.com/revanthkumar96)
+- **LinkedIn:** [revanth-kumar-sudikonda](https://linkedin.com/in/revanth-kumar-sudikonda)
+- **Email:** sudikondarevanthkumar@gmail.com
+- **Resume:** [Download PDF](https://github.com/revanthkumar96/revanthkumar96/blob/main/Sudikonda_Revanth_Kumar_Resume.pdf)
+
+---
+
+> **"I don’t just want to use AI. I want to build systems that make AI actually useful in the real world."**
+
+---
+
+*⭐ Still building. Still learning. No shortcuts.*  
+*Currently based in Andhra Pradesh / Hyderabad area.*
