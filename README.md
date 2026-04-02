@@ -17,15 +17,15 @@
 ### 🚀 The Honest Truth
 
 I'm **not** the smartest or most experienced AI engineer on GitHub.  
-I'm a B.Tech CSE (AI specialization) student (graduating 2027) who's already shipped real systems instead of just following tutorials.
+I'm a B.Tech CSE (AI specialization) student (graduating 2027) who's focused on shipping real, production-grade systems instead of just tutorials.
 
-I've built and deployed AI pipelines that processed **1.5M+ records**, RAG systems over **50K+** documents, and observability tools that actually help in production.
+I've already built and deployed AI pipelines that processed **1.5M+ records**, RAG systems over **50K+** documents, and observability tools that solve actual problems.
 
-I care deeply about **systems that work when things break at 3 AM** — reliability, observability, rollback, and real-world impact.
+I obsess over **systems that work reliably** — observability, fault tolerance, rollback, and real-world performance.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthkumar96&show_icons=true&theme=radical&hide_border=true" alt="Revanth's GitHub Stats" />
@@ -35,9 +35,9 @@ I care deeply about **systems that work when things break at 3 AM** — reliabil
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar96&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
 <!-- Optional: Visitor count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=revanthkumar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-*(Stats update automatically — I'm still early in my journey and grinding daily.)*
 
 ---
 
@@ -45,26 +45,24 @@ I care deeply about **systems that work when things break at 3 AM** — reliabil
 
 I'm Sudikonda Revanth Kumar from Andhra Pradesh (currently in the Hyderabad area), India.
 
-I build **AI-powered systems**, not just models. That means:
-- Designing scalable backends (FastAPI, PostgreSQL, caching)
-- Creating reliable RAG and multi-agent workflows with LangGraph
-- Adding proper observability (OpenTelemetry), monitoring, and fault tolerance
-- Integrating real-world APIs and handling production concerns like latency and reliability
+I specialize in building **complete AI systems**, not just models. This includes:
+- Scalable backends with FastAPI, PostgreSQL, and caching
+- Reliable RAG and multi-agent workflows using LangGraph
+- Proper observability with OpenTelemetry
+- Handling production concerns like latency, reliability, and monitoring
 
-**What sets me apart:**
-- I've worked on actual production workloads (1.5M+ records, 10K+ requests/day)
-- I obsess over making AI useful and dependable, not just impressive in demos
-- I'm still learning every day — and I document the messy parts
-
-**Current Focus:** Building end-to-end intelligent systems that combine LLMs, backend architecture, and strong engineering practices.
+**What defines me:**
+- Experience with real workloads (1.5M+ records, 10K+ requests/day)
+- Strong focus on making AI **useful and dependable** in production
+- Continuous learning with a practical, systems-first mindset
 
 ---
 
-### 🛠️ What I Build & Tech I Ship With
+### 🛠️ Tech Stack I Ship With
 
 **Languages:** Python, JavaScript, TypeScript, SQL  
-**Backend & DevOps:** FastAPI, RESTful APIs, Docker, GitHub Actions, Linux  
-**AI/ML:** PyTorch, Hugging Face, LangChain/LangGraph, RAG, Vector DBs, Whisper, OpenTelemetry  
+**Backend & DevOps:** FastAPI, REST APIs, Docker, GitHub Actions, Linux  
+**AI/ML:** PyTorch, Hugging Face, LangChain/LangGraph, RAG, Vector DBs, Whisper  
 **Platforms:** Groq, Claude, OpenAI, AWS Bedrock, ClickHouse, PostgreSQL, MongoDB
 
 ---
@@ -72,55 +70,53 @@ I build **AI-powered systems**, not just models. That means:
 ### 🔥 Featured Projects
 
 **ROUGE — Automated DevOps Execution System**  
-10-agent orchestration system with safety checks, rollback, and full observability.  
-→ Cuts test generation by ~40% and debugging time by ~50%.
+Multi-agent orchestration with safety, rollback, and full observability.
 
 **Rouge.AI SDK**  
-OpenTelemetry-based observability SDK (published on PyPI) for tracing LLM/agentic workflows across multiple providers.
+OpenTelemetry-based observability SDK published on PyPI for tracing LLM/agent workflows.
 
-Other work:
-- RAG semantic search over 50K+ aerospace documents @ Bharat Dynamics Limited
-- High-throughput NLP + Computer Vision backend @ Mindcres Technologies (30% latency reduction)
+Other notable work:
+- RAG semantic search over **50K+** aerospace documents @ Bharat Dynamics Limited
+- Backend services with **30%** latency reduction @ Mindcres Technologies
 
 ---
 
-### 🧠 Experience (Real Impact)
+### 🧠 Experience
 
 - **Freelance AI Systems Engineer** — Apr 2025 → Present  
-  Full-stack AI apps for summarization, transcription, RAG, and enterprise automation (Microsoft Graph, PowerShell).
+  Full-stack AI apps (summarization, transcription, RAG, Microsoft Graph automation).
 
 - **AI & Backend Engineer Intern @ Mindcres Technologies** — Dec 2025 – Mar 2026  
-  Processed 1.5M+ records across NLP & CV pipelines.
+  NLP + Computer Vision pipelines on 1.5M+ records.
 
-- **AI Engineering Intern @ Bharat Dynamics Limited (Defense PSU)** — Jun 2025 – Aug 2025  
-  Built domain-specific knowledge base and semantic search system.
+- **AI Engineering Intern @ Bharat Dynamics Limited** — Jun 2025 – Aug 2025  
+  Domain-specific knowledge base and semantic search system.
 
 ---
 
 ### 🎮 Hobbies & Interests
 
-When I'm not coding or debugging at midnight, you'll find me:
+Outside of coding, I enjoy:
+- Reading tech papers, research on LLMs/RLHF, and sci-fi
+- Deep-diving into system design, distributed tracing, and small-model optimization
+- Playing Chess and strategy games (sharpens logical thinking)
+- Listening to podcasts on AI, startups, and engineering lessons
+- Experimenting with personal automation scripts and tweaking my dev setup
 
-- **Reading** — Tech books, research papers on LLMs/RLHF, and occasional sci-fi
-- **Learning new systems** — Deep-diving into distributed tracing, orchestration tools, or small-model fine-tuning
-- **Playing strategy games** — Chess (helps with logical thinking) and the occasional open-world game
-- **Listening to podcasts** — About AI, startups, and software engineering war stories
-- **Experimenting** — With personal automation scripts, tweaking my Linux setup, or trying weird prompting techniques just for fun
-
-I believe good engineering comes from curiosity outside pure code — that's why I enjoy understanding how complex systems (both technical and human) actually work.
+These hobbies help me think better about complex systems — both technical and human.
 
 ---
 
 ### ⚡ Strengths & Weaknesses
 
 **Strengths:**  
-- I ship real, working systems (idea → architecture → production)  
-- Strong focus on reliability and observability  
-- I don't quit when things get complex
+- Idea → architecture → production-ready code  
+- Strong emphasis on reliability and observability  
+- Persistent when things get complex
 
 **Weaknesses:**  
-- Sometimes over-engineer before validating the simple solution  
-- Can get stuck chasing "perfect" design early on
+- Sometimes over-engineer before shipping the simple version  
+- Can chase perfect design too early
 
 ---
 
@@ -129,15 +125,15 @@ I believe good engineering comes from curiosity outside pure code — that's why
 - Top 10 — Sushacks’25 Hackathon  
 - Top 10 — GDG GenAI Hackathon  
 - Open source contributions (browser-use, runtm.ai)  
-- Undergraduate Research: Iterative RLHF / Multi-Model RAFT alignment
+- Undergraduate Research on Iterative RLHF / RAFT alignment
 
 ---
 
 ### 🤝 Let's Connect
 
-- **GitHub:** [@revanthkumar96](https://github.com/revanthkumar96)
-- **LinkedIn:** [revanth-kumar-sudikonda](https://linkedin.com/in/revanth-kumar-sudikonda)
-- **Email:** sudikondarevanthkumar@gmail.com
+- **GitHub:** [@revanthkumar96](https://github.com/revanthkumar96)  
+- **LinkedIn:** [revanth-kumar-sudikonda](https://linkedin.com/in/revanth-kumar-sudikonda)  
+- **Email:** sudikondarevanthkumar@gmail.com  
 - **Resume:** [Download PDF](https://github.com/revanthkumar96/revanthkumar96/blob/main/Sudikonda_Revanth_Kumar_Resume.pdf)
 
 ---
