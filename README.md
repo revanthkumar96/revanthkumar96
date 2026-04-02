@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Sudikonda Revanth Kumar 👋</h1>
-  <p><strong>AI Systems Engineer | Building production-grade LLM apps that don't hallucinate in prod</strong></p>
+  <p><strong>AI Systems Engineer in the making | Turning messy ideas into reliable production AI systems</strong></p>
 
   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
@@ -16,106 +16,119 @@
 
 ### 🚀 The Honest Truth
 
-I'm **not** the smartest AI engineer on GitHub.  
-I don't have thousands of stars or viral repos (yet).
+I'm **not** the smartest or most experienced AI engineer on GitHub.  
+I'm a B.Tech CSE (AI specialization) student (graduating 2027) who's already shipped real systems instead of just following tutorials.
 
-**What I do have:**
+I've built and deployed AI pipelines that processed **1.5M+ records**, RAG systems over **50K+** documents, and observability tools that actually help in production.
 
-- Shipped systems processing **1.5M+ records** in production
-- Built real RAG pipelines, multi-agent systems, and observability tools that solve actual pain
-- Interned at a defense PSU + startup + ongoing freelance
-- Still a B.Tech student (graduating 2027) — hungry and shipping fast
-
-I focus on **systems that survive 3 AM alerts**, not just pretty demos.
+I care deeply about **systems that work when things break at 3 AM** — reliability, observability, rollback, and real-world impact.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats (as of April 2026)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthkumar96&show_icons=true&theme=radical&hide_border=true" alt="Revanth's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumar96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github.com/revanthkumar96/revanthkumar96/raw/main/github-stats.png" alt="Revanth's GitHub Stats" width="700" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar96&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+**Highlights:**
+- **165** Total Contributions (Jun 22, 2024 – Present)
+- **22** Current Streak (Mar 12 – Apr 2)
+- **22** Longest Streak
 
-<!-- Optional: Visitor count -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=revanthkumar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+*(Stats update automatically — I'm still early in my journey and grinding daily.)*
 
 ---
 
-### 💼 What I Actually Build
+### 🧑‍💻 About Me – Who I Really Am
 
-- **End-to-end AI systems** (LLM apps + backend + tracing + monitoring)
-- **Reliable RAG & agentic workflows** with evaluation, rollback, and observability
-- **High-throughput backends** (FastAPI + PostgreSQL + caching) that handle real load
-- **Production painkillers** — latency cuts, fault tolerance, structured logging
+I'm Sudikonda Revanth Kumar from Andhra Pradesh (currently in the Hyderabad area), India.
 
-**Core Stack I Ship With:**
-**Python** • **FastAPI** • **LangGraph** • **PyTorch** • **Hugging Face** • **PostgreSQL / MongoDB / ClickHouse** • **Docker** • **OpenTelemetry** • **Groq / Claude / OpenAI / Bedrock** • **Whisper**
+I build **AI-powered systems**, not just models. That means:
+- Designing scalable backends (FastAPI, PostgreSQL, caching)
+- Creating reliable RAG and multi-agent workflows with LangGraph
+- Adding proper observability (OpenTelemetry), monitoring, and fault tolerance
+- Integrating real-world APIs and handling production concerns like latency and reliability
+
+**What sets me apart:**
+- I've worked on actual production workloads (1.5M+ records, 10K+ requests/day)
+- I obsess over making AI useful and dependable, not just impressive in demos
+- I'm still learning every day — and I document the messy parts
+
+**Current Focus:** Building end-to-end intelligent systems that combine LLMs, backend architecture, and strong engineering practices.
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ What I Build & Tech I Ship With
+
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**Backend & DevOps:** FastAPI, RESTful APIs, Docker, GitHub Actions, Linux  
+**AI/ML:** PyTorch, Hugging Face, LangChain/LangGraph, RAG, Vector DBs, Whisper, OpenTelemetry  
+**Platforms:** Groq, Claude, OpenAI, AWS Bedrock, ClickHouse, PostgreSQL, MongoDB
+
+---
+
+### 🔥 Featured Projects
 
 **ROUGE — Automated DevOps Execution System**  
-[![GitHub](https://img.shields.io/badge/GitHub-ROUGE-black?logo=github)](https://github.com/revanthkumar96/ROUGE)  
-10-agent orchestration system with enforced safety, rollback, and full observability. Fixes "AI agents running unsafe commands silently."
+10-agent orchestration system with safety checks, rollback, and full observability.  
+→ Cuts test generation by ~40% and debugging time by ~50%.
 
-**Rouge.AI SDK — LLM Observability Platform**  
-[![PyPI](https://img.shields.io/badge/PyPI-rouge--ai-blue)](https://pypi.org/project/rouge-ai/)  
-OpenTelemetry-based drop-in SDK that traces agentic workflows across 10+ LLM providers (prompts, tools, latency, failures).
+**Rouge.AI SDK**  
+OpenTelemetry-based observability SDK (published on PyPI) for tracing LLM/agentic workflows across multiple providers.
 
-**Other Impact:**
-- RAG semantic search over **50K+** aerospace documents (Bharat Dynamics)
-- Backend services handling **10K+ requests/day** with **30%** latency reduction (Mindcres)
-- Enterprise automation with Microsoft Graph APIs + PowerShell
+Other work:
+- RAG semantic search over 50K+ aerospace documents @ Bharat Dynamics Limited
+- High-throughput NLP + Computer Vision backend @ Mindcres Technologies (30% latency reduction)
 
 ---
 
-### 🧠 Experience (Real Numbers)
+### 🧠 Experience (Real Impact)
 
 - **Freelance AI Systems Engineer** — Apr 2025 → Present  
-  Full-stack AI apps for summarization, transcription, and RAG workflows.
+  Full-stack AI apps for summarization, transcription, RAG, and enterprise automation (Microsoft Graph, PowerShell).
 
 - **AI & Backend Engineer Intern @ Mindcres Technologies** — Dec 2025 – Mar 2026  
-  NLP + Computer Vision pipelines on **1.5M+ records**.
+  Processed 1.5M+ records across NLP & CV pipelines.
 
-- **AI Engineering Intern @ Bharat Dynamics Limited (Defense)** — Jun 2025 – Aug 2025  
-  Domain-specific knowledge base and semantic search system.
+- **AI Engineering Intern @ Bharat Dynamics Limited (Defense PSU)** — Jun 2025 – Aug 2025  
+  Built domain-specific knowledge base and semantic search system.
+
+---
+
+### 🎮 Hobbies & Interests
+
+When I'm not coding or debugging at midnight, you'll find me:
+
+- **Reading** — Tech books, research papers on LLMs/RLHF, and occasional sci-fi
+- **Learning new systems** — Deep-diving into distributed tracing, orchestration tools, or small-model fine-tuning
+- **Playing strategy games** — Chess (helps with logical thinking) and the occasional open-world game
+- **Listening to podcasts** — About AI, startups, and software engineering war stories
+- **Experimenting** — With personal automation scripts, tweaking my Linux setup, or trying weird prompting techniques just for fun
+
+I believe good engineering comes from curiosity outside pure code — that's why I enjoy understanding how complex systems (both technical and human) actually work.
 
 ---
 
 ### ⚡ Strengths & Weaknesses
 
-**Strengths:**
-- Idea → architecture → production code (I ship)
-- Obsessed with reliability, tracing, and "will this break under load?"
-- Fast learner who actually reads error logs
+**Strengths:**  
+- I ship real, working systems (idea → architecture → production)  
+- Strong focus on reliability and observability  
+- I don't quit when things get complex
 
-**Weaknesses:**
-- Occasionally over-engineer before validating the simple version
-- Can chase "perfect design" instead of "good enough that works"
+**Weaknesses:**  
+- Sometimes over-engineer before validating the simple solution  
+- Can get stuck chasing "perfect" design early on
 
 ---
 
 ### 🏆 Achievements
 
-- Top 10 — Sushacks’25 Hackathon
-- Top 10 — GDG GenAI Hackathon
-- Open source contributions (browser-use, runtm.ai)
-- Undergraduate Research: Iterative RLHF / RAFT alignment on small models (Qwen2.5, Phi-2, TinyLlama)
-
----
-
-### 🎯 What I'm Becoming
-
-Not just another "fine-tuner."  
-I'm building toward **end-to-end intelligent production systems** — reliable, observable, scalable, and actually useful.
-
-Still far from my goal. Still grinding every day.
+- Top 10 — Sushacks’25 Hackathon  
+- Top 10 — GDG GenAI Hackathon  
+- Open source contributions (browser-use, runtm.ai)  
+- Undergraduate Research: Iterative RLHF / Multi-Model RAFT alignment
 
 ---
 
@@ -133,4 +146,4 @@ Still far from my goal. Still grinding every day.
 ---
 
 *⭐ Still building. Still learning. No shortcuts.*  
-*Currently based in Andhra Pradesh / Hyderabad area.*
+*Based in Andhra Pradesh / Hyderabad area, India.*
