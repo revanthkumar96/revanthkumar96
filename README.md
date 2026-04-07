@@ -18,9 +18,9 @@
 
 ## What I actually do
 
-I'm a second-year B.Tech CSE (AI specialization) student at Vignan's, and I build AI systems for production — not toy demos, not notebooks with `print("Hello World")`.
+I'm a 3rd year B.Tech CSE (AI specialization) student at Vignan's, and I build AI systems for production — not toy demos, not notebooks with `print("Hello World")`.
 
-The problems I care about are operational: **how do you keep an AI system honest about what it's doing, how do you make it recover from failure, and how do you know when it's quietly broken?** That lens shows up across everything I've shipped — an agentic orchestration system with enforced rollback, an observability SDK for LLM chains, a RAG pipeline serving 300+ concurrent users, backend services processing millions of records.
+The problems I care about are operational: **how do you keep an AI system honest about what it's doing, how do you make it recover from failure, and how do you know when it's quietly broken?** That lens shows up across everything I've shipped — an agentic orchestration system with enforced rollback, an observability SDK for LLM chains, a RAG pipeline serving 300+ concurrent users, and backend services processing millions of records.
 
 Most of my work runs on real infrastructure, gets used by real users, and has metrics attached to it. I believe the gap between a working demo and a working system is where most of the engineering actually lives.
 
