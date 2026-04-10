@@ -28,7 +28,7 @@ Most of my work runs on real infrastructure, gets used by real users, and has me
 
 ## Projects
 
-### [ROUGE](https://github.com/revanthkumar96/rouge) — 10-Agent CI/CD Orchestration System
+### [ROUGE is now Niro.ai](https://github.com/revanthkumar96/rogue.ai-secops) — 10-Agent CI/CD Orchestration System
 `Python` `TypeScript` `LangGraph` `Docker` `Kubernetes` `OpenTelemetry` `SQLite`
 
 **The problem:** AI agents running CI/CD pipelines fail in ways that are hard to catch — they execute unsafe bash, don't roll back, and leave no trace of what went wrong.
